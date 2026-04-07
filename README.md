@@ -114,7 +114,7 @@ Software:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30em" align="center" alt="LinkedIn"/>](https://www.linkedin.com/in/aditya-gupta-5a829b287/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30em" align="center" alt="Email"/>](mailto:aagutaa1029@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30em" align="center" alt="Email"/>](mailto:aagupta1029@gmail.com)
 &nbsp;
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30em" align="center" alt="Instagram"/>](https://www.instagram.com/warygeneral/)
 
