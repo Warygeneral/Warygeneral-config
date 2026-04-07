@@ -1,46 +1,130 @@
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW16anQyaXM2aG5icmZ1ZmQ3a2RqbGY4NDFtMXIwNzNneDR0MHdiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a856eM30k6d8cmSDJ1/giphy.gif">
-	
-# 𝙷𝚎𝚕𝚕𝚘 — 𝙸'𝚖 𝚆𝚊𝚛𝚢𝚐𝚎𝚗𝚎𝚛𝚊𝚕
 
-### 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+<!-- WALL-E wandering through code like it's scrap metal 🤖 -->
+<img src="https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif" width="280" alt="WALL-E Robot GIF"/>
 
-<img src="https://komarev.com/ghpvc/?username=Warygeneral&label=Profile%20views&color=0B2D72&style=for-the-badge" alt="Profile views"/>
+# 🤖 𝙷𝚎𝚢, 𝙸'𝚖 𝙰𝚍𝚒𝚝𝚢𝚊 — 𝚊𝚔𝚊 𝚆𝚊𝚛𝚢𝚐𝚎𝚗𝚎𝚛𝚊𝚕
+
+### ⚙️ Robotics & IoT Engineer · Tinkerer · Dream Builder
+
+> *"On a scale of 1 to 10, how would you rate your pain?"* — **Baymax, Big Hero 6**
+> *(My response: compiling…)*
+
+<img src="https://komarev.com/ghpvc/?username=Warygeneral&label=Profile%20views&color=00BFFF&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🎓 [Add your degree or current occupation here]
-- 🖥 𝙳𝚎𝚟 𝚠𝚒𝚝𝚑 𝚌𝚘𝚗𝚟𝚎𝚗𝚝𝚒𝚘𝚗𝚊𝚕𝚕𝚢 𝚜𝚝𝚞𝚙𝚒𝚍 𝚒𝚍𝚎𝚊𝚜 𝚊𝚗𝚍 𝚋𝚒𝚐𝚐𝚎𝚛 𝚍𝚛𝚎𝚊𝚖𝚜
-- 🔭 𝙲𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢 𝚒𝚜 𝚖𝚢 𝚔𝚎𝚢 — 𝙸 𝚍𝚛𝚒𝚟𝚎 𝚘𝚗 𝚒𝚝
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚘𝚗 [𝙶𝚒𝚝𝙷𝚞𝚋](https://github.com/Warygeneral)
-- 💻 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜.
-
----
-
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-```yaml
-- Exploring new tech stacks
-- Building cool projects
-- Contributing to open source
 ```
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- 𝙱𝚎𝚌𝚘𝚖𝚎 𝚊𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚊𝚕𝚕𝚢 𝚊𝚌𝚌𝚞𝚛𝚊𝚝𝚎 𝚒𝚗 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 𝙸 𝚋𝚞𝚒𝚕𝚍
-	- 𝙼𝚊𝚜𝚝𝚎𝚛 𝚜𝚢𝚜𝚝𝚎𝚖 𝚍𝚎𝚜𝚒𝚐𝚗 𝚊𝚗𝚍 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎
+  ██████╗  ██████╗ ██████╗  ██████╗ ████████╗███████╗
+  ██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗╚══██╔══╝██╔════╝
+  ██████╔╝██║   ██║██████╔╝██║   ██║   ██║   ███████╗
+  ██╔══██╗██║   ██║██╔══██╗██║   ██║   ██║   ╚════██║
+  ██║  ██║╚██████╔╝██████╔╝╚██████╔╝   ██║   ███████║
+  ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝   ╚═╝   ╚══════╝
+                  &  IoT  — Powered by curiosity 🔌
+```
 
 ---
 
-## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Warygeneral's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Warygeneral&theme=merko&hide_border=true)
-![Warygeneral's Stats](https://github-readme-stats.vercel.app/api?username=Warygeneral&theme=merko&show_icons=true&hide_border=true&count_private=true)
+## 🦾 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
+- 🤖 Robotics & IoT enthusiast — if it has sensors, motors, or microchips, I'm obsessed
+- 💡 Dev with unconventionally bold ideas and even bigger dreams *(shoutout WALL-E for teaching us that one bot can change the world)*
+- 🔭 Curiosity is my fuel — I explore, prototype, and iterate endlessly
+- 🧠 Bridging hardware and software: from ESP32 to cloud dashboards
+- 🌐 All my projects live on [GitHub](https://github.com/Warygeneral)
+
+> *"I am not fast. But I will help you."* — **Baymax** *(Big Hero 6)*
+> That's basically me with every debugging session.
 
 ---
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28em" align="center" alt="Follow on LinkedIn"/>](https://linkedin.com/in/your-profile)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28em" align="center" alt="Email me"/>](mailto:your-email@example.com)
+## ⚡ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚄𝚙 𝚃𝚘
+
+🔨 **Currently building / exploring:**
+
+```yaml
+Robotics:
+  - Autonomous systems & path planning
+  - ROS2 (Robot Operating System)
+  - Servo & motor control with embedded C/Python
+
+IoT:
+  - ESP32 / Raspberry Pi projects
+  - MQTT, WebSockets & real-time sensor dashboards
+  - Smart home & edge computing prototypes
+
+Software:
+  - Contributing to open source
+  - Improving system design skills
+```
+
+🤞 **One day I hope to...**
+- 🤖 Build a real-life Baymax — a soft, caring robot that actually helps people
+- 🚀 Launch an autonomous rover (space-grade WALL-E vibes 🌍)
+- 🔗 Master the full stack from embedded firmware → cloud → AI inference
 
 ---
+
+## 🛠 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+
+<div align="center">
+
+![Warygeneral's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Warygeneral&theme=radical&hide_border=true)
+![Warygeneral's Stats](https://github-readme-stats.vercel.app/api?username=Warygeneral&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+</div>
+
+---
+
+## 🤖 𝚁𝚘𝚋𝚘𝚝 𝙵𝚊𝚌𝚝 𝚘𝚏 𝚝𝚑𝚎 𝙳𝚊𝚢
+
+> *"WALL-E compacted 700 years of trash into towers.  
+> I compact 700 bugs into a single pull request."*
+
+<div align="center">
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="220" alt="Baymax Hello GIF"/>
+</div>
+
+---
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚁𝚎𝚊𝚌𝚑 𝙼𝚎
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30em" align="center" alt="LinkedIn"/>](https://www.linkedin.com/in/aditya-gupta-5a829b287/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30em" align="center" alt="Email"/>](mailto:aagutaa1029@gmail.com)
+&nbsp;
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30em" align="center" alt="Instagram"/>](https://www.instagram.com/warygeneral/)
+
+</div>
+
+---
+
+<div align="center">
+
+*"I found it. The directive."* — **WALL-E** 🌱
+**Mine? Build things that matter.**
+
+</div>
